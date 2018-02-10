@@ -30,6 +30,7 @@ public class Main {
             int v;
             int x;
             int m;
+            int h;
 
         }
 
