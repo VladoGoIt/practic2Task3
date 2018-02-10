@@ -29,6 +29,7 @@ public class Main {
             System.out.println();
             int v;
             int x;
+            int m;
 
         }
 
