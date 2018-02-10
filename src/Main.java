@@ -28,9 +28,14 @@ public class Main {
             System.out.println();
             System.out.println();
             int v;
+
             int f;
             int h;
             int j;
+
+            int x;
+            int m;
+
 
         }
 
