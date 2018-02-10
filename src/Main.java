@@ -25,6 +25,7 @@ public class Main {
             System.out.println(area);
             System.out.println("______________________");
             System.out.println();
+            System.out.println();
 
         }
 
